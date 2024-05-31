@@ -2,7 +2,35 @@
 
 Card Component for React applications using the "Compound Component" and "Function as a child" patterns.
 
-## Examples
+## Installing
+
+### Package manager
+
+Using npm:
+
+```bash
+$ npm install jumagu-product-card
+```
+
+Using bower:
+
+```bash
+$ bower install jumagu-product-card
+```
+
+Using yarn:
+
+```bash
+$ yarn add jumagu-product-card
+```
+
+Using pnpm:
+
+```bash
+$ pnpm add jumagu-product-card
+```
+
+## Guide & Examples
 
 ### Basic Usage
 To use the product card, you must import the `<ProductCard />` and provide the mandatory properties: `product` and `children`. The product one must satisfy the Product interface:
