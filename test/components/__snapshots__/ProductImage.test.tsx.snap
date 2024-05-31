@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage Should render correctly with the custom image 1`] = `
+<img
+  alt="Product"
+  className="productImg undefined"
+  src="test-product.jpg"
+/>
+`;
+
+exports[`ProductImage Should render correctly with the product image 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./t-shirt.png"
+  />
+</div>
+`;
